@@ -3,10 +3,10 @@
 #Informasi Kelompok
 
 Anggota Kelompok:
-  1. Agung prabowo (13.111.1505)
-  2. Baginda Hakim nst (13.111.1785)
-  3. Muhammad Irfan Pratama (13.111.1394)
-  4. Richard Kevin (13.111.2829)
+>  1. Agung prabowo (13.111.1505)
+>  2. Baginda Hakim nst (13.111.1785)
+>  3. Muhammad Irfan Pratama (13.111.1394)
+>  4. Richard Kevin (13.111.2829)
 
 #Hello World
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
